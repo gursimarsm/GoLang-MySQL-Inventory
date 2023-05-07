@@ -1,1 +1,1 @@
-# GoLang-MySQL-Inventory
+# Product Inevntory using GoLang-MySQL
